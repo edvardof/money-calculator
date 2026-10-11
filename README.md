@@ -47,3 +47,4 @@ node --test tests/state.test.mjs
 - `manifest.webmanifest` e `sw.js` — instalação e funcionamento offline
 - `icons/` — ícones para iPhone e Android
 - `tests/` — testes de lógica de contagem
+Money Calculator v1.0
